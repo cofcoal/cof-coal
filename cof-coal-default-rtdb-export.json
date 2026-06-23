@@ -1,0 +1,13 @@
+{
+  "alert": {
+    "active": false,
+    "reason": "",
+    "timestamp": "50843"
+  },
+  "master": false,
+  "sensor": {
+    "flame": false,
+    "humidity": 46,
+    "temperature": 28.5
+  }
+}
